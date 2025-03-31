@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 Download models from https://huggingface.co/wind-strider/emotion-detection/tree/main
 
-Both "model_epoch_5.pth" and "yolo_face_detection.pt" has to be in the same directory as "testOnCamera.py" and "testOnMp4.py"
+Both "model_epoch_5.pth" and "yolo_face_detection.pt" has to be in the same directory as the file "testOnCamera.py" and "testOnMp4.py"
 
 ## Run
 
