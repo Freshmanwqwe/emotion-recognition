@@ -1,2 +1,0 @@
-# emotion-recognition
-emotion recognition
